@@ -1,3 +1,4 @@
 # web-python-practice
-webapplication practice
-Python三剑客学习笔记网站实践
+Python蟒蛇Learning-logs网站实践
+A web application practice.
+
